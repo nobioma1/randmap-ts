@@ -8,6 +8,8 @@
     "start": "parcel ./public/index.html"
   },
   "dependencies": {
+    "@types/faker": "^4.1.11",
+    "faker": "^4.1.0",
     "parcel-bundler": "^1.12.4"
   },
   "devDependencies": {
