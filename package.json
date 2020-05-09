@@ -1,0 +1,16 @@
+{
+  "name": "randMap-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Noble Obioma <nobioma1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./public/index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
